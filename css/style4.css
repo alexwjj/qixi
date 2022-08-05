@@ -312,7 +312,7 @@
 .logo {
     width: 350px;
     height: 81px;
-    background-image: url('../images/logo.png');
+    /* background-image: url('../images/logo.png'); */
     z-index: 999999;
     position: absolute;
     left: 41vw;
